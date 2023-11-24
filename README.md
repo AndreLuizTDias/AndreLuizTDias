@@ -1,4 +1,4 @@
-### Ola eu sou Andre Luiz 👋
+### Ola eu sou Andre Luiz Trigueiro Dias 👋 
 
 ### Tecnologias
 
