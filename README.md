@@ -1,5 +1,7 @@
 ### Ola 👋  eu sou Andre Luiz Trigueiro Dias, um amante da tecnologia que busca sempre aprender mais.
 
+No repositorio Projetos Simples como o nome diz estao alguns projetos desenvolvidos durante o meu periodo de aprendizado.
+
 ### Tecnologias
 
 <div style="display: inline_block"><br/>
