@@ -1,4 +1,4 @@
-### Ola eu sou Andre Luiz Trigueiro Dias 👋 
+### Ola 👋  eu sou Andre Luiz Trigueiro Dias, um amante da tecnologia que busca sempre aprender mais.
 
 ### Tecnologias
 
