@@ -2,6 +2,10 @@
 
 No repositorio Projetos Simples como o nome diz estao alguns projetos desenvolvidos durante o meu periodo de aprendizado.
 
+No momento estou me dedicando mais as linguagens <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  e <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>, Porem elas nao sao as unicas ao qual eu possuo conhecimento
+
+Na parte de tecnologias abaixo estao listadas a maioria que eu ja estudei. Honestamente eu sei que apenas listar estas tecnologias todas nao significa algo, eu nao conheço todas elas de forma profunda, mais eu conheço bastante coisa, e com dedicaçao eu sei que posso aprender mais e mais sobre cada uma.
+
 ### Tecnologias
 
 <div style="display: inline_block"><br/>
@@ -38,4 +42,6 @@ No repositorio Projetos Simples como o nome diz estao alguns projetos desenvolvi
   <img alt="" scr="" />
   
 </div>
+
+Bem e isso. 
 
